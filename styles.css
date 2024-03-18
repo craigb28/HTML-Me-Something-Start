@@ -78,6 +78,7 @@ footer {
 
 .funParagraph {
   color: green;
+  visibility: hidden;
 }
 
 .job {
